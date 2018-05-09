@@ -1,2 +1,1 @@
-# AustelEngine
-The source code of AustelEngine !
+https://github.com/AustelEngine/AustelEngine
